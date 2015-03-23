@@ -17,4 +17,38 @@ Pinecone is a Processing-inspired drawing library powered by Pillow.
 Features
 --------
 
-* TODO
+Easy Syntax
+~~~~~~~~~~~~
+
+Here is a simple Pinecone script::
+
+    from pinecone import size, ellipse
+
+    size(600, 400)
+    ellipse(300, 200, 100, 40)
+
+Pinecone is designed to be simple enough for first-time programmers to use, including:
+
+* Artists of all ages who come from non-programming backgrounds
+* Elementary school-aged children
+* Teens
+* Adults who learn best visually
+
+When you run a Pinecone script, your drawing is automatically displayed.
+
+It's Just Python
+~~~~~~~~~~~~~~~~~
+
+Pinecone scripts are just standard Python scripts. You run them like this::
+
+    python hello.py
+
+This means that:
+
+* You can use other Python modules in your Pinecone scripts, such as `math`, `random`, and even third-party libraries
+* There is no learning curve between learning Pinecone and learning Python
+
+Status
+-------
+
+Pre-alpha, currently just a proof-of-concept.

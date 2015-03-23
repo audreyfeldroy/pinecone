@@ -13,5 +13,5 @@ How it works:
 
 1. You import the functions you need.
 2. You define the image as 600 pixels wide by 400 pixels high.
-3. You draw an ellipse.
+3. You draw an ellipse centered at (300, 200) with width 100 and height 40.
 4. You see the resulting image.
