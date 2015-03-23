@@ -6,7 +6,8 @@ At the command line::
 
     $ easy_install pinecone
 
-Or, if you have virtualenvwrapper installed::
+Or, if you have pip installed::
 
-    $ mkvirtualenv pinecone
     $ pip install pinecone
+
+If you get a permission denied error, type `sudo` before the above install command.
