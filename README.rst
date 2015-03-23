@@ -46,7 +46,7 @@ Pinecone scripts are just standard Python scripts. You run them like this::
 This means that:
 
 * You can use other Python modules in your Pinecone scripts, such as `math`, `random`, and even third-party libraries
-* There is no learning curve between learning Pinecone and learning Python
+* The learning curve between learning Pinecone and learning Python is minimized, since you can use a standard text editor and command line
 
 Status
 -------
