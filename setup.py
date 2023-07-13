@@ -15,7 +15,7 @@ with open('HISTORY.rst') as history_file:
     history = history_file.read().replace('.. :changelog:', '')
 
 requirements = [
-    'Pillow==9.3.0'
+    'Pillow==10.0.0'
 ]
 
 test_requirements = [
