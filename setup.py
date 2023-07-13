@@ -29,7 +29,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Audrey Roy Greenfeld",
     author_email='aroy@alum.mit.edu',
-    url='https://github.com/audreyr/pinecone',
+    url='https://github.com/audreyfeldroy/pinecone',
     packages=[
         'pinecone',
     ],

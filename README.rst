@@ -2,8 +2,8 @@
 pinecone
 ===============================
 
-.. image:: https://img.shields.io/travis/audreyr/pinecone.svg
-        :target: https://travis-ci.org/audreyr/pinecone
+.. image:: https://img.shields.io/travis/audreyfeldroy/pinecone.svg
+        :target: https://travis-ci.org/audreyfeldroy/pinecone
 
 .. image:: https://img.shields.io/pypi/v/pinecone.svg
         :target: https://pypi.python.org/pypi/pinecone
