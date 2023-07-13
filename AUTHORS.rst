@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Audrey Roy Greenfeld <audreyr@gmail.com>
+* Audrey Roy Greenfeld <aroy@alum.mit.edu>
 
 Contributors
 ------------

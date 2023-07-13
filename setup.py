@@ -28,7 +28,7 @@ setup(
     description="Pinecone is a Processing-inspired drawing library powered by Pillow.",
     long_description=readme + '\n\n' + history,
     author="Audrey Roy Greenfeld",
-    author_email='audreyr@gmail.com',
+    author_email='aroy@alum.mit.edu',
     url='https://github.com/audreyr/pinecone',
     packages=[
         'pinecone',
