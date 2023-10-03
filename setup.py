@@ -17,7 +17,7 @@ with open('HISTORY.rst') as history_file:
 requirements = [
     'matplotlib==3.7.2',
     'numpy==1.25.1',
-    'Pillow==10.0.0',
+    'Pillow==10.0.1',
 ]
 
 test_requirements = [
